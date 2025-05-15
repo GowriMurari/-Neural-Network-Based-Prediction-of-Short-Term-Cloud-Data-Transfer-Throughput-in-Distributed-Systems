@@ -1,0 +1,13 @@
+boto3==1.37.17
+keras==2.12.0
+matplotlib==3.10.0
+numba==0.56.4
+pandas==2.2.3
+scikit_learn==1.6.1
+streamlit==1.41.1
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
+pandas==2.2.3
+numpy==1.23.5
+streamlit-aggrid==1.1.2
+plotly==6.0.1
